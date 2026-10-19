@@ -1,27 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="250" height="76" viewBox="0 0 250 76" role="img" aria-label="macik.com.tr">
-  <defs><linearGradient id="txt" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#3b82f6"/><stop offset="1" stop-color="#6366f1"/></linearGradient>
-    <linearGradient id="rim" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f6f9fd"/><stop offset="1" stop-color="#cdd5e0"/></linearGradient>
-    <linearGradient id="sh" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#3b82f6" stop-opacity="0"/><stop offset="0.5" stop-color="#3b82f6" stop-opacity="0.4"/><stop offset="1" stop-color="#3b82f6" stop-opacity="0"/></linearGradient><filter id="btn" x="-30%" y="-30%" width="160%" height="160%">
-    <feGaussianBlur in="SourceAlpha" stdDeviation="4" result="b"/>
-    <feOffset in="b" dx="4" dy="4" result="o1"/><feFlood flood-color="#a3b1c6"/>
-    <feComposite in2="o1" operator="in" result="s1"/>
-    <feOffset in="b" dx="-4" dy="-4" result="o2"/><feFlood flood-color="#ffffff"/>
-    <feComposite in2="o2" operator="in" result="s2"/>
-    <feMerge><feMergeNode in="s1"/><feMergeNode in="s2"/><feMergeNode in="SourceGraphic"/></feMerge>
-  </filter><filter id="in" x="-10%" y="-10%" width="120%" height="120%">
-    <feOffset in="SourceAlpha" dx="3" dy="3" result="o1"/>
-    <feGaussianBlur in="o1" stdDeviation="3" result="b1"/>
-    <feComposite in="SourceAlpha" in2="b1" operator="out" result="inv1"/>
-    <feFlood flood-color="#a3b1c6"/><feComposite in2="inv1" operator="in" result="sh1"/>
-    <feOffset in="SourceAlpha" dx="-3" dy="-3" result="o2"/>
-    <feGaussianBlur in="o2" stdDeviation="3" result="b2"/>
-    <feComposite in="SourceAlpha" in2="b2" operator="out" result="inv2"/>
-    <feFlood flood-color="#ffffff"/><feComposite in2="inv2" operator="in" result="sh2"/>
-    <feMerge><feMergeNode in="SourceGraphic"/><feMergeNode in="sh1"/><feMergeNode in="sh2"/></feMerge>
-  </filter></defs>
-  <rect width="250" height="76" rx="38" fill="#e0e5ec"/>
-
-  <circle cx="38.0" cy="38.0" r="25" fill="#e0e5ec" filter="url(#btn)"/>
-  <g transform="translate(38.0 38.0)" fill="none" stroke="#3b82f6" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><circle cx="0" cy="0" r="10"/><ellipse cx="0" cy="0" rx="4.5" ry="10"/><line x1="-10" y1="0" x2="10" y2="0"/></g>
-  <text x="76.0" y="44.0" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="18" font-weight="700" fill="#2d3748">macik.com.tr</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="279" height="84" viewBox="0 0 279 84" role="img" aria-label="macik.com.tr">
+  <defs><linearGradient id="srf" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#eff0f3"/><stop offset="1" stop-color="#d9dbe0"/></linearGradient>
+    <linearGradient id="txt" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#2f6df2"/><stop offset="1" stop-color="#6a5cf2"/></linearGradient><filter id="btn" filterUnits="userSpaceOnUse" x="0" y="0" width="279" height="84" color-interpolation-filters="sRGB">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="3.5" result="b"/>
+      <feOffset in="b" dx="3.5" dy="3.5" result="o1"/><feFlood flood-color="#b1b5bf"/><feComposite in2="o1" operator="in" result="s1"/>
+      <feOffset in="b" dx="-3.5" dy="-3.5" result="o2"/><feFlood flood-color="#ffffff"/><feComposite in2="o2" operator="in" result="s2"/>
+      <feMerge><feMergeNode in="s1"/><feMergeNode in="s2"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter></defs>
+  <rect width="279" height="84" rx="42" fill="#e4e5e9"/>
+  <circle cx="42" cy="42" r="26" fill="url(#srf)" filter="url(#btn)"/>
+  <g transform="translate(42 42) scale(1.25)" fill="none" stroke="#2f6df2" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="0" cy="0" r="10"/><ellipse cx="0" cy="0" rx="4.5" ry="10"/><line x1="-10" y1="0" x2="10" y2="0"/></g>
+  <text x="88" y="49" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="20" font-weight="700" fill="#262a31">macik.com.tr</text>
 </svg>
