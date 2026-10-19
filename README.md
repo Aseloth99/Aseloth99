@@ -3,7 +3,7 @@
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg"><img alt="Mustafa Açık — Bilgisayar Mühendisi · Computer Engineer" src="assets/hero-light.svg" width="720"></picture>
 
 <p>
-<a href="https://macik.com.tr"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/pill-web-dark.svg"><img alt="macik.com.tr" src="assets/pill-web-light.svg" height="84"></picture></a>&nbsp;<a href="mailto:mustafaacik92@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/pill-mail-dark.svg"><img alt="mustafaacik92@gmail.com" src="assets/pill-mail-light.svg" height="84"></picture></a>
+<a href="https://macik.com.tr"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/pill-web-dark.svg"><img alt="macik.com.tr" src="assets/pill-web-light.svg"></picture></a>&nbsp;<a href="mailto:mustafaacik92@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/pill-mail-dark.svg"><img alt="mustafaacik92@gmail.com" src="assets/pill-mail-light.svg"></picture></a>
 </p>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/section-tr-dark.svg"><img alt="Türkçe: Hakkımda — Karamanoğlu Mehmetbey Üniversitesi'nde Bilgisayar Mühendisi ve Araştırma Görevlisiyim. Yazılım, yapay zekâ ve gömülü/IoT alanlarında kendi projelerimi geliştiriyorum; şu an tez çalışmamla ilgileniyorum." src="assets/section-tr-light.svg" width="720"></picture>
