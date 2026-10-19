@@ -1,95 +1,51 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="400" viewBox="0 0 1000 400" role="img" aria-label="Mustafa Açık — Bilgisayar Mühendisi · Computer Engineer">
-  <defs><linearGradient id="txt" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#6aa5ff"/><stop offset="1" stop-color="#9a9cff"/></linearGradient>
-    <linearGradient id="rim" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#383e48"/><stop offset="1" stop-color="#22262c"/></linearGradient>
-    <linearGradient id="sh" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#6aa5ff" stop-opacity="0"/><stop offset="0.5" stop-color="#6aa5ff" stop-opacity="0.4"/><stop offset="1" stop-color="#6aa5ff" stop-opacity="0"/></linearGradient><filter id="big" x="-30%" y="-30%" width="160%" height="160%">
-    <feGaussianBlur in="SourceAlpha" stdDeviation="14" result="b"/>
-    <feOffset in="b" dx="12" dy="12" result="o1"/><feFlood flood-color="#1c1f24"/>
-    <feComposite in2="o1" operator="in" result="s1"/>
-    <feOffset in="b" dx="-12" dy="-12" result="o2"/><feFlood flood-color="#3b414c"/>
-    <feComposite in2="o2" operator="in" result="s2"/>
-    <feMerge><feMergeNode in="s1"/><feMergeNode in="s2"/><feMergeNode in="SourceGraphic"/></feMerge>
-  </filter><filter id="card" x="-30%" y="-30%" width="160%" height="160%">
-    <feGaussianBlur in="SourceAlpha" stdDeviation="10" result="b"/>
-    <feOffset in="b" dx="9" dy="9" result="o1"/><feFlood flood-color="#1c1f24"/>
-    <feComposite in2="o1" operator="in" result="s1"/>
-    <feOffset in="b" dx="-9" dy="-9" result="o2"/><feFlood flood-color="#3b414c"/>
-    <feComposite in2="o2" operator="in" result="s2"/>
-    <feMerge><feMergeNode in="s1"/><feMergeNode in="s2"/><feMergeNode in="SourceGraphic"/></feMerge>
-  </filter><filter id="mid" x="-30%" y="-30%" width="160%" height="160%">
-    <feGaussianBlur in="SourceAlpha" stdDeviation="8" result="b"/>
-    <feOffset in="b" dx="7" dy="7" result="o1"/><feFlood flood-color="#1c1f24"/>
-    <feComposite in2="o1" operator="in" result="s1"/>
-    <feOffset in="b" dx="-7" dy="-7" result="o2"/><feFlood flood-color="#3b414c"/>
-    <feComposite in2="o2" operator="in" result="s2"/>
-    <feMerge><feMergeNode in="s1"/><feMergeNode in="s2"/><feMergeNode in="SourceGraphic"/></feMerge>
-  </filter><filter id="sm" x="-30%" y="-30%" width="160%" height="160%">
-    <feGaussianBlur in="SourceAlpha" stdDeviation="5" result="b"/>
-    <feOffset in="b" dx="5" dy="5" result="o1"/><feFlood flood-color="#1c1f24"/>
-    <feComposite in2="o1" operator="in" result="s1"/>
-    <feOffset in="b" dx="-5" dy="-5" result="o2"/><feFlood flood-color="#3b414c"/>
-    <feComposite in2="o2" operator="in" result="s2"/>
-    <feMerge><feMergeNode in="s1"/><feMergeNode in="s2"/><feMergeNode in="SourceGraphic"/></feMerge>
-  </filter><filter id="chip" x="-30%" y="-30%" width="160%" height="160%">
-    <feGaussianBlur in="SourceAlpha" stdDeviation="4" result="b"/>
-    <feOffset in="b" dx="4" dy="4" result="o1"/><feFlood flood-color="#1c1f24"/>
-    <feComposite in2="o1" operator="in" result="s1"/>
-    <feOffset in="b" dx="-4" dy="-4" result="o2"/><feFlood flood-color="#3b414c"/>
-    <feComposite in2="o2" operator="in" result="s2"/>
-    <feMerge><feMergeNode in="s1"/><feMergeNode in="s2"/><feMergeNode in="SourceGraphic"/></feMerge>
-  </filter><filter id="in" x="-10%" y="-10%" width="120%" height="120%">
-    <feOffset in="SourceAlpha" dx="5" dy="5" result="o1"/>
-    <feGaussianBlur in="o1" stdDeviation="5" result="b1"/>
-    <feComposite in="SourceAlpha" in2="b1" operator="out" result="inv1"/>
-    <feFlood flood-color="#1c1f24"/><feComposite in2="inv1" operator="in" result="sh1"/>
-    <feOffset in="SourceAlpha" dx="-5" dy="-5" result="o2"/>
-    <feGaussianBlur in="o2" stdDeviation="5" result="b2"/>
-    <feComposite in="SourceAlpha" in2="b2" operator="out" result="inv2"/>
-    <feFlood flood-color="#3b414c"/><feComposite in2="inv2" operator="in" result="sh2"/>
-    <feMerge><feMergeNode in="SourceGraphic"/><feMergeNode in="sh1"/><feMergeNode in="sh2"/></feMerge>
-  </filter><filter id="in2" x="-10%" y="-10%" width="120%" height="120%">
-    <feOffset in="SourceAlpha" dx="3" dy="3" result="o1"/>
-    <feGaussianBlur in="o1" stdDeviation="3" result="b1"/>
-    <feComposite in="SourceAlpha" in2="b1" operator="out" result="inv1"/>
-    <feFlood flood-color="#1c1f24"/><feComposite in2="inv1" operator="in" result="sh1"/>
-    <feOffset in="SourceAlpha" dx="-3" dy="-3" result="o2"/>
-    <feGaussianBlur in="o2" stdDeviation="3" result="b2"/>
-    <feComposite in="SourceAlpha" in2="b2" operator="out" result="inv2"/>
-    <feFlood flood-color="#3b414c"/><feComposite in2="inv2" operator="in" result="sh2"/>
-    <feMerge><feMergeNode in="SourceGraphic"/><feMergeNode in="sh1"/><feMergeNode in="sh2"/></feMerge>
-  </filter></defs>
-  <rect width="1000" height="400" rx="44" fill="#2b2f36"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="360" viewBox="0 0 720 360" role="img" aria-label="Mustafa Açık — Bilgisayar Mühendisi · Computer Engineer">
+  <defs><linearGradient id="srf" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#363639"/><stop offset="1" stop-color="#242426"/></linearGradient>
+    <linearGradient id="txt" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#5b9dff"/><stop offset="1" stop-color="#8b86ff"/></linearGradient><filter id="big" filterUnits="userSpaceOnUse" x="0" y="0" width="720" height="360" color-interpolation-filters="sRGB">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="11" result="b"/>
+      <feOffset in="b" dx="10" dy="10" result="o1"/><feFlood flood-color="#1a1a1c"/><feComposite in2="o1" operator="in" result="s1"/>
+      <feOffset in="b" dx="-10" dy="-10" result="o2"/><feFlood flood-color="#3c3c40"/><feComposite in2="o2" operator="in" result="s2"/>
+      <feMerge><feMergeNode in="s1"/><feMergeNode in="s2"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter><filter id="mid" filterUnits="userSpaceOnUse" x="0" y="0" width="720" height="360" color-interpolation-filters="sRGB">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="8" result="b"/>
+      <feOffset in="b" dx="7" dy="7" result="o1"/><feFlood flood-color="#1a1a1c"/><feComposite in2="o1" operator="in" result="s1"/>
+      <feOffset in="b" dx="-7" dy="-7" result="o2"/><feFlood flood-color="#3c3c40"/><feComposite in2="o2" operator="in" result="s2"/>
+      <feMerge><feMergeNode in="s1"/><feMergeNode in="s2"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter><filter id="in" filterUnits="userSpaceOnUse" x="0" y="0" width="720" height="360" color-interpolation-filters="sRGB">
+      <feOffset in="SourceAlpha" dx="5" dy="5" result="o1"/>
+      <feGaussianBlur in="o1" stdDeviation="5" result="b1"/>
+      <feComposite in="SourceAlpha" in2="b1" operator="out" result="inv1"/>
+      <feFlood flood-color="#1a1a1c"/><feComposite in2="inv1" operator="in" result="sh1"/>
+      <feOffset in="SourceAlpha" dx="-5" dy="-5" result="o2"/>
+      <feGaussianBlur in="o2" stdDeviation="5" result="b2"/>
+      <feComposite in="SourceAlpha" in2="b2" operator="out" result="inv2"/>
+      <feFlood flood-color="#3c3c40"/><feComposite in2="inv2" operator="in" result="sh2"/>
+      <feMerge><feMergeNode in="SourceGraphic"/><feMergeNode in="sh1"/><feMergeNode in="sh2"/></feMerge>
+    </filter><filter id="in2" filterUnits="userSpaceOnUse" x="0" y="0" width="720" height="360" color-interpolation-filters="sRGB">
+      <feOffset in="SourceAlpha" dx="3" dy="3" result="o1"/>
+      <feGaussianBlur in="o1" stdDeviation="3" result="b1"/>
+      <feComposite in="SourceAlpha" in2="b1" operator="out" result="inv1"/>
+      <feFlood flood-color="#1a1a1c"/><feComposite in2="inv1" operator="in" result="sh1"/>
+      <feOffset in="SourceAlpha" dx="-3" dy="-3" result="o2"/>
+      <feGaussianBlur in="o2" stdDeviation="3" result="b2"/>
+      <feComposite in="SourceAlpha" in2="b2" operator="out" result="inv2"/>
+      <feFlood flood-color="#3c3c40"/><feComposite in2="inv2" operator="in" result="sh2"/>
+      <feMerge><feMergeNode in="SourceGraphic"/><feMergeNode in="sh1"/><feMergeNode in="sh2"/></feMerge>
+    </filter></defs>
+  <rect width="720" height="360" rx="32" fill="#2c2c2f"/>
+  <rect x="40" y="40" width="640" height="280" rx="36" fill="url(#srf)" filter="url(#big)"/>
+  <circle cx="150" cy="180" r="76" fill="url(#srf)" filter="url(#mid)"/>
+  <circle cx="150" cy="180" r="58" fill="#2c2c2f" filter="url(#in)"/>
+  <text x="150" y="198" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="50" font-weight="800" fill="url(#txt)">MA</text>
+  <g><circle cx="150" cy="96" r="5" fill="#5b9dff"/>
+    <animateTransform attributeName="transform" type="rotate" values="0 150 180;360 150 180" dur="12s" repeatCount="indefinite"/></g>
 
-  <rect x="30" y="30" width="940" height="340" rx="44" fill="#2b2f36" filter="url(#big)"/>
-  <circle cx="200" cy="200" r="104" fill="#2b2f36" filter="url(#mid)"/>
-  <circle cx="200" cy="200" r="84" fill="#2b2f36" filter="url(#in)"/>
-  <circle cx="200" cy="200" r="104" fill="none" stroke="#6aa5ff" stroke-width="2" opacity="0">
-    <animate attributeName="r" values="106;134" dur="3.2s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="0.55;0" dur="3.2s" repeatCount="indefinite"/>
-  </circle>
-  <text x="200" y="222" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="64" font-weight="800" fill="url(#txt)">MA</text>
+  <text x="264" y="106" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="12.5" font-weight="700" letter-spacing="3.5" fill="#86868d">MERHABA  ·  HELLO</text>
+  <text x="262" y="160" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="50" font-weight="800" fill="#efeff1">Mustafa <tspan fill="url(#txt)">Açık</tspan></text>
+  <text x="264" y="194" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="17" font-weight="700" fill="#5b9dff">Bilgisayar Mühendisi · Araştırma Görevlisi</text>
+  <text x="264" y="220" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="16" fill="#b6b6bc">Computer Engineer · Research Assistant</text>
+  <text x="264" y="244" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="13" fill="#86868d">Karamanoğlu Mehmetbey Üniversitesi / University</text>
 
-  <text x="362" y="108" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="14" font-weight="700" letter-spacing="4" fill="#7d8696">MERHABA  ·  HELLO</text>
-  <text x="360" y="176" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="60" font-weight="800" fill="#e9ecf2">Mustafa <tspan fill="url(#txt)">Açık</tspan></text>
-  <text x="362" y="216" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="20" font-weight="600" fill="#6aa5ff">Bilgisayar Mühendisi · Araştırma Görevlisi</text>
-  <text x="362" y="246" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="18" fill="#aab3c2">Computer Engineer · Research Assistant</text>
-  <text x="362" y="274" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="15" fill="#7d8696">Karamanoğlu Mehmetbey Üniversitesi / University</text>
-
-  <rect x="360" y="298" width="420" height="42" rx="21" fill="#2b2f36" filter="url(#in2)"/>
-  <circle cx="384" cy="319" r="6" fill="#4ade80"><animate attributeName="opacity" values="1;0.25;1" dur="2s" repeatCount="indefinite"/></circle>
-  <text x="402" y="324" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="14.5" font-weight="600" fill="#aab3c2">Şu an: Tez çalışması  ·  Now: Working on thesis</text>
-
-  <rect x="840" y="70" width="90" height="34" rx="17" fill="#2b2f36" filter="url(#in2)"/>
-  <circle cx="902" cy="87" r="12" fill="#2b2f36" filter="url(#sm)"><animate attributeName="cx" values="902;862;902" dur="6.0s" keyTimes="0;0.5;1" calcMode="spline" keySplines="0.6 0 0.4 1;0.6 0 0.4 1" repeatCount="indefinite"/></circle>
-  <circle cx="902" cy="87" r="4" fill="#6aa5ff"><animate attributeName="cx" values="902;862;902" dur="6.0s" keyTimes="0;0.5;1" calcMode="spline" keySplines="0.6 0 0.4 1;0.6 0 0.4 1" repeatCount="indefinite"/></circle>
-  <rect x="840" y="116" width="90" height="34" rx="17" fill="#2b2f36" filter="url(#in2)"/>
-  <circle cx="862" cy="133" r="12" fill="#2b2f36" filter="url(#sm)"><animate attributeName="cx" values="862;902;862" dur="7.5s" keyTimes="0;0.5;1" calcMode="spline" keySplines="0.6 0 0.4 1;0.6 0 0.4 1" repeatCount="indefinite"/></circle>
-  <circle cx="862" cy="133" r="4" fill="#6aa5ff"><animate attributeName="cx" values="862;902;862" dur="7.5s" keyTimes="0;0.5;1" calcMode="spline" keySplines="0.6 0 0.4 1;0.6 0 0.4 1" repeatCount="indefinite"/></circle>
-  <rect x="840" y="162" width="90" height="34" rx="17" fill="#2b2f36" filter="url(#in2)"/>
-  <circle cx="902" cy="179" r="12" fill="#2b2f36" filter="url(#sm)"><animate attributeName="cx" values="902;862;902" dur="9.0s" keyTimes="0;0.5;1" calcMode="spline" keySplines="0.6 0 0.4 1;0.6 0 0.4 1" repeatCount="indefinite"/></circle>
-  <circle cx="902" cy="179" r="4" fill="#6aa5ff"><animate attributeName="cx" values="902;862;902" dur="9.0s" keyTimes="0;0.5;1" calcMode="spline" keySplines="0.6 0 0.4 1;0.6 0 0.4 1" repeatCount="indefinite"/></circle>
-  <circle cx="886" cy="292" r="50" fill="#2b2f36" filter="url(#mid)"/>
-  <circle cx="886" cy="292" r="36" fill="url(#rim)"/>
-  <g><circle cx="886" cy="269" r="5" fill="#6aa5ff"/>
-    <animateTransform attributeName="transform" type="rotate" values="0 886 292;360 886 292" dur="14s" repeatCount="indefinite"/></g>
-
+  <rect x="262" y="262" width="390" height="42" rx="21" fill="#2c2c2f" filter="url(#in2)"/>
+  <circle cx="285" cy="283" r="5.5" fill="#4ade80"><animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite"/></circle>
+  <text x="302" y="288" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="13.5" font-weight="600" fill="#b6b6bc">Şu an: Tez çalışması  ·  Now: Working on thesis</text>
 </svg>
