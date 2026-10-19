@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="410" viewBox="0 0 1000 410" role="img" aria-label="English">
+  <defs><linearGradient id="txt" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#6aa5ff"/><stop offset="1" stop-color="#9a9cff"/></linearGradient>
+    <linearGradient id="rim" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#383e48"/><stop offset="1" stop-color="#22262c"/></linearGradient>
+    <linearGradient id="sh" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#6aa5ff" stop-opacity="0"/><stop offset="0.5" stop-color="#6aa5ff" stop-opacity="0.4"/><stop offset="1" stop-color="#6aa5ff" stop-opacity="0"/></linearGradient><filter id="big" x="-30%" y="-30%" width="160%" height="160%">
+    <feGaussianBlur in="SourceAlpha" stdDeviation="14" result="b"/>
+    <feOffset in="b" dx="12" dy="12" result="o1"/><feFlood flood-color="#1c1f24"/>
+    <feComposite in2="o1" operator="in" result="s1"/>
+    <feOffset in="b" dx="-12" dy="-12" result="o2"/><feFlood flood-color="#3b414c"/>
+    <feComposite in2="o2" operator="in" result="s2"/>
+    <feMerge><feMergeNode in="s1"/><feMergeNode in="s2"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter><filter id="card" x="-30%" y="-30%" width="160%" height="160%">
+    <feGaussianBlur in="SourceAlpha" stdDeviation="10" result="b"/>
+    <feOffset in="b" dx="9" dy="9" result="o1"/><feFlood flood-color="#1c1f24"/>
+    <feComposite in2="o1" operator="in" result="s1"/>
+    <feOffset in="b" dx="-9" dy="-9" result="o2"/><feFlood flood-color="#3b414c"/>
+    <feComposite in2="o2" operator="in" result="s2"/>
+    <feMerge><feMergeNode in="s1"/><feMergeNode in="s2"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter><filter id="mid" x="-30%" y="-30%" width="160%" height="160%">
+    <feGaussianBlur in="SourceAlpha" stdDeviation="8" result="b"/>
+    <feOffset in="b" dx="7" dy="7" result="o1"/><feFlood flood-color="#1c1f24"/>
+    <feComposite in2="o1" operator="in" result="s1"/>
+    <feOffset in="b" dx="-7" dy="-7" result="o2"/><feFlood flood-color="#3b414c"/>
+    <feComposite in2="o2" operator="in" result="s2"/>
+    <feMerge><feMergeNode in="s1"/><feMergeNode in="s2"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter><filter id="sm" x="-30%" y="-30%" width="160%" height="160%">
+    <feGaussianBlur in="SourceAlpha" stdDeviation="5" result="b"/>
+    <feOffset in="b" dx="5" dy="5" result="o1"/><feFlood flood-color="#1c1f24"/>
+    <feComposite in2="o1" operator="in" result="s1"/>
+    <feOffset in="b" dx="-5" dy="-5" result="o2"/><feFlood flood-color="#3b414c"/>
+    <feComposite in2="o2" operator="in" result="s2"/>
+    <feMerge><feMergeNode in="s1"/><feMergeNode in="s2"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter><filter id="chip" x="-30%" y="-30%" width="160%" height="160%">
+    <feGaussianBlur in="SourceAlpha" stdDeviation="4" result="b"/>
+    <feOffset in="b" dx="4" dy="4" result="o1"/><feFlood flood-color="#1c1f24"/>
+    <feComposite in2="o1" operator="in" result="s1"/>
+    <feOffset in="b" dx="-4" dy="-4" result="o2"/><feFlood flood-color="#3b414c"/>
+    <feComposite in2="o2" operator="in" result="s2"/>
+    <feMerge><feMergeNode in="s1"/><feMergeNode in="s2"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter><filter id="in" x="-10%" y="-10%" width="120%" height="120%">
+    <feOffset in="SourceAlpha" dx="5" dy="5" result="o1"/>
+    <feGaussianBlur in="o1" stdDeviation="5" result="b1"/>
+    <feComposite in="SourceAlpha" in2="b1" operator="out" result="inv1"/>
+    <feFlood flood-color="#1c1f24"/><feComposite in2="inv1" operator="in" result="sh1"/>
+    <feOffset in="SourceAlpha" dx="-5" dy="-5" result="o2"/>
+    <feGaussianBlur in="o2" stdDeviation="5" result="b2"/>
+    <feComposite in="SourceAlpha" in2="b2" operator="out" result="inv2"/>
+    <feFlood flood-color="#3b414c"/><feComposite in2="inv2" operator="in" result="sh2"/>
+    <feMerge><feMergeNode in="SourceGraphic"/><feMergeNode in="sh1"/><feMergeNode in="sh2"/></feMerge>
+  </filter><filter id="in2" x="-10%" y="-10%" width="120%" height="120%">
+    <feOffset in="SourceAlpha" dx="3" dy="3" result="o1"/>
+    <feGaussianBlur in="o1" stdDeviation="3" result="b1"/>
+    <feComposite in="SourceAlpha" in2="b1" operator="out" result="inv1"/>
+    <feFlood flood-color="#1c1f24"/><feComposite in2="inv1" operator="in" result="sh1"/>
+    <feOffset in="SourceAlpha" dx="-3" dy="-3" result="o2"/>
+    <feGaussianBlur in="o2" stdDeviation="3" result="b2"/>
+    <feComposite in="SourceAlpha" in2="b2" operator="out" result="inv2"/>
+    <feFlood flood-color="#3b414c"/><feComposite in2="inv2" operator="in" result="sh2"/>
+    <feMerge><feMergeNode in="SourceGraphic"/><feMergeNode in="sh1"/><feMergeNode in="sh2"/></feMerge>
+  </filter></defs>
+  <rect width="1000" height="410" rx="44" fill="#2b2f36"/>
+
+  <rect x="50" y="26" width="900" height="64" rx="32" fill="#2b2f36" filter="url(#in)"/>
+  <rect x="508" y="32" width="436" height="52" rx="26" fill="#2b2f36" filter="url(#sm)"/>
+  <circle cx="540" cy="58" r="5" fill="#4ade80"/>
+  <text x="274" y="65" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="20" font-weight="600" fill="#7d8696">TR  ·  Türkçe</text>
+  <text x="726" y="65" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="20" font-weight="800" fill="#e9ecf2">EN  ·  English</text>
+
+  <rect x="50" y="118" width="900" height="172" rx="30" fill="#2b2f36" filter="url(#card)"/>
+  <rect x="84" y="142" width="6" height="22" rx="3" fill="#6aa5ff"/>
+  <text x="102" y="160" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="15" font-weight="800" letter-spacing="3" fill="#6aa5ff">ABOUT</text>
+  <text x="84" y="198" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="17" fill="#aab3c2">I'm a Computer Engineer and Research Assistant at Karamanoğlu Mehmetbey University.</text>
+  <text x="84" y="228" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="17" fill="#aab3c2">I build my own projects in software, artificial intelligence and embedded/IoT;</text>
+  <text x="84" y="258" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="17" fill="#aab3c2">right now I'm mostly focused on my thesis.</text>
+  <rect x="56" y="318" width="128" height="46" rx="23" fill="#2b2f36" filter="url(#chip)"/>
+  <circle cx="80" cy="341" r="4.5" fill="#6aa5ff"/>
+  <text x="96" y="347" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="16" font-weight="600" fill="#e9ecf2">Software</text>
+  <rect x="204" y="318" width="71" height="46" rx="23" fill="#2b2f36" filter="url(#chip)"/>
+  <circle cx="228" cy="341" r="4.5" fill="#6aa5ff"/>
+  <text x="244" y="347" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="16" font-weight="600" fill="#e9ecf2">AI</text>
+  <rect x="295" y="318" width="186" height="46" rx="23" fill="#2b2f36" filter="url(#chip)"/>
+  <circle cx="319" cy="341" r="4.5" fill="#6aa5ff"/>
+  <text x="335" y="347" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="16" font-weight="600" fill="#e9ecf2">Embedded / IoT</text>
+  <rect x="501" y="318" width="157" height="46" rx="23" fill="#2b2f36" filter="url(#chip)"/>
+  <circle cx="525" cy="341" r="4.5" fill="#6aa5ff"/>
+  <text x="541" y="347" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="16" font-weight="600" fill="#e9ecf2">3D Printing</text>
+  <rect x="678" y="318" width="80" height="46" rx="23" fill="#2b2f36" filter="url(#chip)"/>
+  <circle cx="702" cy="341" r="4.5" fill="#6aa5ff"/>
+  <text x="718" y="347" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="16" font-weight="600" fill="#e9ecf2">Web</text>
+</svg>
