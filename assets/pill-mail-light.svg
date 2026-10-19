@@ -1,13 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="407" height="84" viewBox="0 0 407 84" role="img" aria-label="mustafaacik92@gmail.com">
+<svg xmlns="http://www.w3.org/2000/svg" width="274" height="52" viewBox="0 0 274 52" role="img" aria-label="mustafaacik92@gmail.com">
   <defs><linearGradient id="srf" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#eff0f3"/><stop offset="1" stop-color="#d9dbe0"/></linearGradient>
-    <linearGradient id="txt" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#2f6df2"/><stop offset="1" stop-color="#6a5cf2"/></linearGradient><filter id="btn" filterUnits="userSpaceOnUse" x="0" y="0" width="407" height="84" color-interpolation-filters="sRGB">
+    <linearGradient id="txt" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#2f6df2"/><stop offset="1" stop-color="#6a5cf2"/></linearGradient><filter id="btn" filterUnits="userSpaceOnUse" x="0" y="0" width="274" height="52" color-interpolation-filters="sRGB">
       <feGaussianBlur in="SourceAlpha" stdDeviation="3.5" result="b"/>
-      <feOffset in="b" dx="3.5" dy="3.5" result="o1"/><feFlood flood-color="#b1b5bf"/><feComposite in2="o1" operator="in" result="s1"/>
-      <feOffset in="b" dx="-3.5" dy="-3.5" result="o2"/><feFlood flood-color="#ffffff"/><feComposite in2="o2" operator="in" result="s2"/>
+      <feOffset in="b" dx="3" dy="3" result="o1"/><feFlood flood-color="#b1b5bf"/><feComposite in2="o1" operator="in" result="s1"/>
+      <feOffset in="b" dx="-3" dy="-3" result="o2"/><feFlood flood-color="#ffffff"/><feComposite in2="o2" operator="in" result="s2"/>
       <feMerge><feMergeNode in="s1"/><feMergeNode in="s2"/><feMergeNode in="SourceGraphic"/></feMerge>
     </filter></defs>
-  <rect width="407" height="84" rx="42" fill="#e4e5e9"/>
-  <circle cx="42" cy="42" r="26" fill="url(#srf)" filter="url(#btn)"/>
-  <g transform="translate(42 42) scale(1.25)" fill="none" stroke="#2f6df2" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="-11" y="-8" width="22" height="16" rx="3"/><polyline points="-11,-6 0,3 11,-6"/></g>
-  <text x="88" y="49" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="20" font-weight="700" fill="#262a31">mustafaacik92@gmail.com</text>
+  <rect width="274" height="52" rx="26" fill="#e4e5e9"/>
+  <circle cx="26" cy="26" r="17" fill="url(#srf)" filter="url(#btn)"/>
+  <g transform="translate(26 26) scale(0.82)" fill="none" stroke="#2f6df2" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><rect x="-11" y="-8" width="22" height="16" rx="3"/><polyline points="-11,-6 0,3 11,-6"/></g>
+  <text x="54" y="31" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="14.5" font-weight="700" fill="#262a31">mustafaacik92@gmail.com</text>
 </svg>
