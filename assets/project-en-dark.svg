@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="396" viewBox="0 0 720 396" role="img" aria-label="English: Featured project — EVRoute">
+  <defs><linearGradient id="srf" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#363639"/><stop offset="1" stop-color="#242426"/></linearGradient>
+    <linearGradient id="txt" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#5b9dff"/><stop offset="1" stop-color="#8b86ff"/></linearGradient><filter id="sm" filterUnits="userSpaceOnUse" x="0" y="0" width="720" height="396" color-interpolation-filters="sRGB">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="4" result="b"/>
+      <feOffset in="b" dx="3.5" dy="3.5" result="o1"/><feFlood flood-color="#1a1a1c"/><feComposite in2="o1" operator="in" result="s1"/>
+      <feOffset in="b" dx="-3.5" dy="-3.5" result="o2"/><feFlood flood-color="#3c3c40"/><feComposite in2="o2" operator="in" result="s2"/>
+      <feMerge><feMergeNode in="s1"/><feMergeNode in="s2"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter><filter id="chip" filterUnits="userSpaceOnUse" x="0" y="0" width="720" height="396" color-interpolation-filters="sRGB">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="3.5" result="b"/>
+      <feOffset in="b" dx="3" dy="3" result="o1"/><feFlood flood-color="#1a1a1c"/><feComposite in2="o1" operator="in" result="s1"/>
+      <feOffset in="b" dx="-3" dy="-3" result="o2"/><feFlood flood-color="#3c3c40"/><feComposite in2="o2" operator="in" result="s2"/>
+      <feMerge><feMergeNode in="s1"/><feMergeNode in="s2"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter><filter id="in" filterUnits="userSpaceOnUse" x="0" y="0" width="720" height="396" color-interpolation-filters="sRGB">
+      <feOffset in="SourceAlpha" dx="4" dy="4" result="o1"/>
+      <feGaussianBlur in="o1" stdDeviation="4.5" result="b1"/>
+      <feComposite in="SourceAlpha" in2="b1" operator="out" result="inv1"/>
+      <feFlood flood-color="#1a1a1c"/><feComposite in2="inv1" operator="in" result="sh1"/>
+      <feOffset in="SourceAlpha" dx="-4" dy="-4" result="o2"/>
+      <feGaussianBlur in="o2" stdDeviation="4.5" result="b2"/>
+      <feComposite in="SourceAlpha" in2="b2" operator="out" result="inv2"/>
+      <feFlood flood-color="#3c3c40"/><feComposite in2="inv2" operator="in" result="sh2"/>
+      <feMerge><feMergeNode in="SourceGraphic"/><feMergeNode in="sh1"/><feMergeNode in="sh2"/></feMerge>
+    </filter><filter id="in2" filterUnits="userSpaceOnUse" x="0" y="0" width="720" height="396" color-interpolation-filters="sRGB">
+      <feOffset in="SourceAlpha" dx="2.5" dy="2.5" result="o1"/>
+      <feGaussianBlur in="o1" stdDeviation="3" result="b1"/>
+      <feComposite in="SourceAlpha" in2="b1" operator="out" result="inv1"/>
+      <feFlood flood-color="#1a1a1c"/><feComposite in2="inv1" operator="in" result="sh1"/>
+      <feOffset in="SourceAlpha" dx="-2.5" dy="-2.5" result="o2"/>
+      <feGaussianBlur in="o2" stdDeviation="3" result="b2"/>
+      <feComposite in="SourceAlpha" in2="b2" operator="out" result="inv2"/>
+      <feFlood flood-color="#3c3c40"/><feComposite in2="inv2" operator="in" result="sh2"/>
+      <feMerge><feMergeNode in="SourceGraphic"/><feMergeNode in="sh1"/><feMergeNode in="sh2"/></feMerge>
+    </filter></defs>
+  <rect width="720" height="396" rx="28" fill="#2c2c2f"/>
+  <rect x="36" y="38" width="4" height="16" rx="2" fill="#5b9dff"/>
+  <text x="48" y="51" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="11.5" font-weight="800" letter-spacing="2.5" fill="#5b9dff">FEATURED PROJECT</text>
+  <rect x="576" y="28" width="112" height="36" rx="18" fill="#2c2c2f" filter="url(#in)"/>
+  <rect x="632" y="32" width="52" height="28" rx="14" fill="url(#srf)" filter="url(#sm)"/>
+  <circle cx="645" cy="46" r="3.5" fill="#4ade80"/>
+  <text x="606" y="50.5" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="12.5" font-weight="600" letter-spacing="1" fill="#86868d">TR</text>
+  <text x="664" y="50.5" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="12.5" font-weight="800" letter-spacing="1" fill="#efeff1">EN</text>
+  <rect x="36" y="86" width="64" height="64" rx="20" fill="url(#srf)" filter="url(#sm)"/>
+  <path d="M72.5 100 L57 122 H67 L63 140 L79.5 115 H69.5 Z" fill="url(#txt)" stroke="url(#txt)" stroke-width="1.5" stroke-linejoin="round"/>
+  <text x="120" y="116" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="30" font-weight="800" fill="#efeff1">EV<tspan fill="url(#txt)">Route</tspan></text>
+  <text x="121" y="141" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="13.5" font-weight="700" fill="#5b9dff">github.com/Aseloth99/evroute  ↗</text>
+  <rect x="476" y="96" width="212" height="44" rx="22" fill="#2c2c2f" filter="url(#in2)"/>
+  <line x1="500" y1="118" x2="664" y2="118" stroke="#86868d" stroke-width="2" stroke-linecap="round" stroke-dasharray="1 6" opacity="0.8"/>
+  <circle cx="500" cy="118" r="4" fill="#86868d"/>
+  <circle cx="582" cy="118" r="7" fill="none" stroke="#4ade80" stroke-width="2" opacity="0"><animate attributeName="r" values="7;7;14;7;7" keyTimes="0;0.3;0.4;0.5;1" dur="7s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0;0.7;0;0" keyTimes="0;0.3;0.32;0.5;1" dur="7s" repeatCount="indefinite"/></circle>
+  <circle cx="582" cy="118" r="7" fill="#4ade80"/>
+  <path d="M583 113.5 L579.5 118.8 H582 L581 122.5 L584.6 117.2 H582 Z" fill="#2c2c2f"/>
+  <circle cx="664" cy="118" r="5" fill="#5b9dff"/>
+  <circle cx="500" cy="118" r="10" fill="url(#srf)" filter="url(#sm)"><animate attributeName="cx" values="500;582;582;664;664" keyTimes="0;0.3;0.5;0.8;1" dur="7s" calcMode="spline" keySplines="0.6 0 0.4 1;0 0 1 1;0.6 0 0.4 1;0 0 1 1" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;1;1;0" keyTimes="0;0.06;0.5;0.8;0.94;1" dur="7s" repeatCount="indefinite"/></circle>
+  <circle cx="500" cy="118" r="3" fill="#5b9dff"><animate attributeName="cx" values="500;582;582;664;664" keyTimes="0;0.3;0.5;0.8;1" dur="7s" calcMode="spline" keySplines="0.6 0 0.4 1;0 0 1 1;0.6 0 0.4 1;0 0 1 1" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;1;1;0" keyTimes="0;0.06;0.5;0.8;0.94;1" dur="7s" repeatCount="indefinite"/></circle>
+  <text x="36" y="184" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="15" fill="#b6b6bc">Exact, battery-, queue- and degradation-aware route planning for electric</text>
+  <text x="36" y="207" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="15" fill="#b6b6bc">vehicles with charging stations.</text>
+  <rect x="36" y="226" width="150" height="72" rx="18" fill="url(#srf)" filter="url(#sm)"/>
+  <text x="54" y="259" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif"><tspan font-size="22" font-weight="800" fill="url(#txt)">9</tspan><tspan dx="6" font-size="13" font-weight="700" fill="#efeff1">planners</tspan></text>
+  <text x="54" y="280" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="11.5" font-weight="600" fill="#86868d">heuristic to exact</text>
+  <rect x="202" y="226" width="316" height="72" rx="18" fill="url(#srf)" filter="url(#sm)"/>
+  <text x="220" y="259" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif"><tspan font-size="22" font-weight="800" fill="url(#txt)">1 279</tspan><tspan dx="6" font-size="13" font-weight="700" fill="#efeff1">nodes</tspan><tspan dx="16" font-size="22" font-weight="800" fill="url(#txt)">290</tspan><tspan dx="6" font-size="13" font-weight="700" fill="#efeff1">stations</tspan></text>
+  <text x="220" y="280" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="11.5" font-weight="600" fill="#86868d">Turkey case study · synthetic stations</text>
+  <rect x="534" y="226" width="150" height="72" rx="18" fill="url(#srf)" filter="url(#sm)"/>
+  <text x="552" y="259" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif"><tspan font-size="22" font-weight="800" fill="url(#txt)">0</tspan><tspan dx="6" font-size="13" font-weight="700" fill="#efeff1">dependencies</tspan></text>
+  <text x="552" y="280" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="11.5" font-weight="600" fill="#86868d">pure Python</text>
+  <circle cx="46" cy="328" r="9" fill="url(#srf)" filter="url(#chip)"/>
+  <path d="M42 328.5 L44.8 331.2 L50.2 325" fill="none" stroke="#5b9dff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="64" y="332.5" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="13.5" font-weight="600" fill="#b6b6bc">Exact BLS / CFP and a Pareto search</text>
+  <circle cx="378" cy="328" r="9" fill="url(#srf)" filter="url(#chip)"/>
+  <path d="M374 328.5 L376.8 331.2 L382.2 325" fill="none" stroke="#5b9dff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="396" y="332.5" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="13.5" font-weight="600" fill="#b6b6bc">Animated offline web viewer</text>
+  <circle cx="46" cy="358" r="9" fill="url(#srf)" filter="url(#chip)"/>
+  <path d="M42 358.5 L44.8 361.2 L50.2 355" fill="none" stroke="#5b9dff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="64" y="362.5" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="13.5" font-weight="600" fill="#b6b6bc">Checked by an independent evaluator</text>
+  <circle cx="378" cy="358" r="9" fill="url(#srf)" filter="url(#chip)"/>
+  <path d="M374 358.5 L376.8 361.2 L382.2 355" fill="none" stroke="#5b9dff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="396" y="362.5" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="13.5" font-weight="600" fill="#b6b6bc">Cross-validation suite · MIT licence</text>
+</svg>
