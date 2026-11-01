@@ -52,7 +52,7 @@
 <text x="78" y="316" font-size="16" font-weight="700" letter-spacing="2.4" fill="#8c97a7">ABOUT</text>
 <text x="64" y="353" font-size="21" fill="#b6c0cc">I build my own projects in software, AI and embedded / IoT.</text>
 <text x="64" y="384" font-size="21" fill="#b6c0cc">My research is on electric vehicles and batteries, and right now</text>
-<text x="64" y="415" font-size="21" fill="#b6c0cc">I'm focused on my thesis.</text>
+<text x="64" y="415" font-size="21" fill="#b6c0cc">I’m focused on my thesis.</text>
 <text x="127.809" y="468.5" font-size="18" font-weight="600" text-anchor="middle" fill="#e4e9f0">Software</text>
 <text x="237.518" y="468.5" font-size="18" font-weight="600" text-anchor="middle" fill="#e4e9f0">AI</text>
 <text x="379.122" y="468.5" font-size="18" font-weight="600" text-anchor="middle" fill="#e4e9f0">Embedded / IoT</text>
@@ -80,7 +80,7 @@
 <text x="107" y="1136" font-size="17.5" fill="#8c97a7">from heuristic</text>
 <text x="107" y="1159" font-size="17.5" fill="#8c97a7">to exact</text>
 <text x="331.667" y="1110"><tspan font-size="30" font-weight="700" fill="#7ea6ff">44 673</tspan><tspan font-size="18" font-weight="700" fill="#e4e9f0" dx="6">nodes</tspan></text>
-<text x="331.667" y="1136" font-size="17.5" fill="#8c97a7">Turkey's real</text>
+<text x="331.667" y="1136" font-size="17.5" fill="#8c97a7">Turkey’s real</text>
 <text x="331.667" y="1159" font-size="17.5" fill="#8c97a7">OSM road network</text>
 <text x="556.333" y="1110"><tspan font-size="30" font-weight="700" fill="#7ea6ff">711</tspan><tspan font-size="18" font-weight="700" fill="#e4e9f0" dx="6">stations</tspan></text>
 <text x="556.333" y="1136" font-size="17.5" fill="#8c97a7">real public</text>

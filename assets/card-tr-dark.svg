@@ -80,10 +80,10 @@
 <text x="107" y="1136" font-size="17.5" fill="#8c97a7">sezgiselden</text>
 <text x="107" y="1159" font-size="17.5" fill="#8c97a7">kesine</text>
 <text x="331.667" y="1110"><tspan font-size="30" font-weight="700" fill="#7ea6ff">44 673</tspan><tspan font-size="18" font-weight="700" fill="#e4e9f0" dx="6">düğüm</tspan></text>
-<text x="331.667" y="1136" font-size="17.5" fill="#8c97a7">Türkiye'nin gerçek</text>
+<text x="331.667" y="1136" font-size="17.5" fill="#8c97a7">Türkiye’nin gerçek</text>
 <text x="331.667" y="1159" font-size="17.5" fill="#8c97a7">OSM yol ağı</text>
 <text x="556.333" y="1110"><tspan font-size="30" font-weight="700" fill="#7ea6ff">711</tspan><tspan font-size="18" font-weight="700" fill="#e4e9f0" dx="6">istasyon</tspan></text>
-<text x="556.333" y="1136" font-size="17.5" fill="#8c97a7">OSM'deki gerçek</text>
+<text x="556.333" y="1136" font-size="17.5" fill="#8c97a7">OSM’deki gerçek</text>
 <text x="556.333" y="1159" font-size="17.5" fill="#8c97a7">şarj noktaları</text>
 <text x="126" y="1222" font-size="18.5" fill="#b6c0cc">Tarayıcıda planlayan canlı demo</text>
 <text x="126" y="1260" font-size="18.5" fill="#b6c0cc">Saf Python, sıfır bağımlılık</text>
