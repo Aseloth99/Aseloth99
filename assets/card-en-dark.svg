@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="840" height="1447" viewBox="0 0 840 1447" role="img" aria-label="Mustafa Açık — profile card (English)">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="840" height="866" viewBox="0 0 840 866" role="img" aria-label="Mustafa Açık — profile card (English)">
 <title>Mustafa Açık — profile card (English)</title>
 <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#232932"/><stop offset="1" stop-color="#1a1e25"/></linearGradient><filter id="plate" x="-10%" y="-10%" width="120%" height="120%" color-interpolation-filters="sRGB"><feDropShadow dx="0" dy="6" stdDeviation="9" flood-color="#000000" flood-opacity="0.55"/></filter><filter id="r1" x="-12%" y="-30%" width="124%" height="160%" color-interpolation-filters="sRGB"><feDropShadow dx="7" dy="7" stdDeviation="8" flood-color="#0b0d11" flood-opacity="0.85"/><feDropShadow dx="-7" dy="-7" stdDeviation="8" flood-color="#333c4a" flood-opacity="0.8"/></filter><filter id="r2" x="-40%" y="-60%" width="180%" height="220%" color-interpolation-filters="sRGB"><feDropShadow dx="5" dy="5" stdDeviation="5.5" flood-color="#0b0d11" flood-opacity="0.85"/><feDropShadow dx="-5" dy="-5" stdDeviation="5.5" flood-color="#333c4a" flood-opacity="0.8"/></filter><filter id="r3" x="-40%" y="-40%" width="180%" height="180%" color-interpolation-filters="sRGB"><feDropShadow dx="9" dy="9" stdDeviation="11" flood-color="#0b0d11" flood-opacity="0.85"/><feDropShadow dx="-9" dy="-9" stdDeviation="11" flood-color="#333c4a" flood-opacity="0.8"/></filter><filter id="i1" x="0" y="0" width="1" height="1" color-interpolation-filters="sRGB"><feOffset in="SourceAlpha" dx="5" dy="5"/><feGaussianBlur stdDeviation="5" result="a"/><feComposite in="SourceAlpha" in2="a" operator="out" result="a"/><feFlood flood-color="#0b0d11" flood-opacity="0.9"/><feComposite in2="a" operator="in" result="a"/><feOffset in="SourceAlpha" dx="-5" dy="-5"/><feGaussianBlur stdDeviation="5" result="b"/><feComposite in="SourceAlpha" in2="b" operator="out" result="b"/><feFlood flood-color="#333c49" flood-opacity="0.55"/><feComposite in2="b" operator="in" result="b"/><feMerge><feMergeNode in="SourceGraphic"/><feMergeNode in="a"/><feMergeNode in="b"/></feMerge></filter><filter id="i2" x="0" y="0" width="1" height="1" color-interpolation-filters="sRGB"><feOffset in="SourceAlpha" dx="3" dy="3"/><feGaussianBlur stdDeviation="3" result="a"/><feComposite in="SourceAlpha" in2="a" operator="out" result="a"/><feFlood flood-color="#0b0d11" flood-opacity="0.9"/><feComposite in2="a" operator="in" result="a"/><feOffset in="SourceAlpha" dx="-3" dy="-3"/><feGaussianBlur stdDeviation="3" result="b"/><feComposite in="SourceAlpha" in2="b" operator="out" result="b"/><feFlood flood-color="#333c49" flood-opacity="0.55"/><feComposite in2="b" operator="in" result="b"/><feMerge><feMergeNode in="SourceGraphic"/><feMergeNode in="a"/><feMergeNode in="b"/></feMerge></filter><clipPath id="av"><circle cx="146" cy="150" r="65"/></clipPath></defs>
-<rect x="24" y="24" width="792" height="1393" rx="40" fill="#1e232b" filter="url(#plate)"/>
+<rect x="24" y="24" width="792" height="812" rx="40" fill="#1e232b" filter="url(#plate)"/>
 <circle cx="146" cy="150" r="82" fill="url(#g)" filter="url(#r3)"/>
 <circle cx="146" cy="150" r="72" fill="#1e232b" filter="url(#i1)"/>
 <circle cx="146" cy="150" r="65" fill="#1a1e25"/>
@@ -22,26 +22,10 @@
 <path d="M144 729.4 H752" stroke="#14181e" stroke-width="1.2"/>
 <path d="M144 730.6 H752" stroke="#29303a" stroke-width="1.2"/>
 <g filter="url(#r2)"><circle cx="103" cy="590" r="20" fill="url(#g)"/><circle cx="103" cy="646" r="20" fill="url(#g)"/><circle cx="103" cy="702" r="20" fill="url(#g)"/><circle cx="103" cy="758" r="20" fill="url(#g)"/></g>
-<g transform="translate(103 590) scale(0.9)" fill="none" stroke="#7ea6ff" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M-8 7.5 C0 7.5 0 -7.5 8 -7.5"/><circle cx="-8" cy="7.5" r="2.6" fill="#7ea6ff" stroke="none"/><circle cx="8" cy="-7.5" r="2.6" fill="#7ea6ff" stroke="none"/></g>
-<g transform="translate(103 646) scale(0.9)" fill="none" stroke="#7ea6ff" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><rect x="-10" y="-6" width="17.5" height="12" rx="2.6"/><path d="M10.5 -2.4 V2.4"/><rect x="-6.6" y="-2.6" width="8" height="5.2" rx="1" fill="#7ea6ff" stroke="none"/></g>
-<g transform="translate(103 702) scale(0.9)" fill="none" stroke="#7ea6ff" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M-2 -8.5 Q-1 -0.5 6 0.5 Q-1 1.5 -2 9.5 Q-3 1.5 -10 0.5 Q-3 -0.5 -2 -8.5 Z" fill="#7ea6ff" stroke="none"/><path d="M7 -11 Q7.4 -7.4 10.6 -7 Q7.4 -6.6 7 -3 Q6.6 -6.6 3.4 -7 Q6.6 -7.4 7 -11 Z" fill="#7ea6ff" stroke="none"/></g>
-<g transform="translate(103 758) scale(0.9)" fill="none" stroke="#7ea6ff" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><rect x="-6.5" y="-6.5" width="13" height="13" rx="2.6"/><rect x="-2.4" y="-2.4" width="4.8" height="4.8" rx="1" fill="#7ea6ff" stroke="none"/><path d="M-3 -6.5 V-10 M3 -6.5 V-10 M-3 6.5 V10 M3 6.5 V10 M-6.5 -3 H-10 M-6.5 3 H-10 M6.5 -3 H10 M6.5 3 H10" stroke-width="2"/></g>
-<rect x="64" y="864" width="712" height="421" rx="30" fill="#1e232b" filter="url(#r1)"/>
-<rect x="88" y="888" width="64" height="64" rx="20" fill="#1e232b" filter="url(#i1)"/>
-<g transform="translate(120 920) scale(1.25)" fill="none" stroke="#7ea6ff" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M2.5 -12 L-7.5 2 H-0.5 L-2.5 12 L7.5 -2 H0.5 Z" fill="#7ea6ff" stroke="#7ea6ff" stroke-width="1.4"/></g>
-<rect x="332.678" y="893" width="79.9911" height="34" rx="17" fill="#1e232b" filter="url(#i2)"/>
-<rect x="422.669" y="893" width="128.805" height="34" rx="17" fill="#1e232b" filter="url(#i2)"/>
-<rect x="88" y="1052" width="212" height="120" rx="20" fill="#1e232b" filter="url(#i1)"/>
-<rect x="314" y="1052" width="212" height="120" rx="20" fill="#1e232b" filter="url(#i1)"/>
-<rect x="540" y="1052" width="212" height="120" rx="20" fill="#1e232b" filter="url(#i1)"/>
-<g filter="url(#r2)"><circle cx="101" cy="1209" r="12" fill="url(#g)"/><circle cx="101" cy="1248" r="12" fill="url(#g)"/></g>
-<g transform="translate(101 1209) scale(1)" fill="none" stroke="#7ea6ff" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M-4.2 0.4 L-1.2 3.4 L4.6 -3"/></g>
-<g transform="translate(101 1248) scale(1)" fill="none" stroke="#7ea6ff" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M-4.2 0.4 L-1.2 3.4 L4.6 -3"/></g>
-<rect x="130.183" y="1325" width="207.728" height="52" rx="26" fill="#1e232b" filter="url(#i1)"/>
-<rect x="355.91" y="1325" width="353.907" height="52" rx="26" fill="#1e232b" filter="url(#i1)"/>
-<g filter="url(#r2)"><circle cx="156.183" cy="1351" r="17" fill="url(#g)"/><circle cx="381.91" cy="1351" r="17" fill="url(#g)"/></g>
-<g transform="translate(156.183 1351) scale(0.8)" fill="none" stroke="#7ea6ff" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round"><circle cx="0" cy="0" r="9"/><ellipse cx="0" cy="0" rx="3.9" ry="9"/><path d="M-9 0 H9"/></g>
-<g transform="translate(381.91 1351) scale(0.8)" fill="none" stroke="#7ea6ff" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round"><rect x="-9.5" y="-7" width="19" height="14" rx="2.6"/><path d="M-9 -5.5 L0 1.2 L9 -5.5"/></g>
+<g transform="translate(103 590) scale(0.9)" fill="none" stroke="#7ea6ff" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M-2 -8.5 Q-1 -0.5 6 0.5 Q-1 1.5 -2 9.5 Q-3 1.5 -10 0.5 Q-3 -0.5 -2 -8.5 Z" fill="#7ea6ff" stroke="none"/><path d="M7 -11 Q7.4 -7.4 10.6 -7 Q7.4 -6.6 7 -3 Q6.6 -6.6 3.4 -7 Q6.6 -7.4 7 -11 Z" fill="#7ea6ff" stroke="none"/></g>
+<g transform="translate(103 646) scale(0.9)" fill="none" stroke="#7ea6ff" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><rect x="-6.5" y="-6.5" width="13" height="13" rx="2.6"/><rect x="-2.4" y="-2.4" width="4.8" height="4.8" rx="1" fill="#7ea6ff" stroke="none"/><path d="M-3 -6.5 V-10 M3 -6.5 V-10 M-3 6.5 V10 M3 6.5 V10 M-6.5 -3 H-10 M-6.5 3 H-10 M6.5 -3 H10 M6.5 3 H10" stroke-width="2"/></g>
+<g transform="translate(103 702) scale(0.9)" fill="none" stroke="#7ea6ff" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><rect x="-8.5" y="-5" width="17" height="13" rx="3"/><path d="M0 -5 V-9.5"/><circle cx="0" cy="-10.5" r="1.8" fill="#7ea6ff" stroke="none"/><circle cx="-3.6" cy="1" r="1.9" fill="#7ea6ff" stroke="none"/><circle cx="3.6" cy="1" r="1.9" fill="#7ea6ff" stroke="none"/><path d="M-11.5 0 V4 M11.5 0 V4" stroke-width="2.4"/></g>
+<g transform="translate(103 758) scale(0.9)" fill="none" stroke="#7ea6ff" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M-8 7.5 C0 7.5 0 -7.5 8 -7.5"/><circle cx="-8" cy="7.5" r="2.6" fill="#7ea6ff" stroke="none"/><circle cx="8" cy="-7.5" r="2.6" fill="#7ea6ff" stroke="none"/></g>
 <g font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif">
 <text x="745.811" y="86.5" font-size="17" font-weight="700" letter-spacing="2" text-anchor="middle" fill="#8c97a7">EN</text>
 <text x="266" y="114" font-size="44" font-weight="700" fill="#e4e9f0">Mustafa Açık</text>
@@ -60,34 +44,13 @@
 <text x="729.576" y="467.5" font-size="19" font-weight="600" text-anchor="middle" fill="#e4e9f0">Web</text>
 <rect x="64" y="520" width="4" height="17" rx="2" fill="#7ea6ff"/>
 <text x="79" y="534" font-size="17.5" font-weight="700" letter-spacing="2.2" fill="#8c97a7">RESEARCH INTERESTS</text>
-<text x="142" y="597" font-size="20.5" font-weight="700" fill="#e4e9f0">Route &amp; charging optimisation</text>
-<text x="492.23" y="597" font-size="19" fill="#8c97a7">electric vehicles · EVRoute</text>
-<text x="142" y="653" font-size="20.5" font-weight="700" fill="#e4e9f0">Battery SoC / SoH estimation</text>
-<text x="492.23" y="653" font-size="19" fill="#8c97a7">with LSTM networks</text>
-<text x="142" y="709" font-size="20.5" font-weight="700" fill="#e4e9f0">Artificial intelligence</text>
-<text x="492.23" y="709" font-size="19" fill="#8c97a7">projects and research</text>
-<text x="142" y="765" font-size="20.5" font-weight="700" fill="#e4e9f0">Embedded systems &amp; IoT</text>
-<text x="492.23" y="765" font-size="19" fill="#8c97a7">my own projects</text>
-<rect x="64" y="830" width="4" height="17" rx="2" fill="#7ea6ff"/>
-<text x="79" y="844" font-size="17.5" font-weight="700" letter-spacing="2.2" fill="#8c97a7">FEATURED PROJECT</text>
-<text x="172" y="919"><tspan font-size="32" font-weight="700" fill="#e4e9f0">EV</tspan><tspan font-size="32" font-weight="700" fill="#7ea6ff">Route</tspan></text>
-<text x="372.674" y="916" font-size="17" font-weight="700" text-anchor="middle" fill="#b6c0cc">v1.0.0</text>
-<text x="487.072" y="916" font-size="17" font-weight="700" text-anchor="middle" fill="#b6c0cc">MIT licence</text>
-<text x="172" y="948" font-size="19" fill="#8c97a7">github.com/Aseloth99/evroute</text>
-<text x="88" y="994" font-size="22" fill="#b6c0cc">Exact, battery-, queue- and degradation-aware route planning</text>
-<text x="88" y="1026" font-size="22" fill="#b6c0cc">for electric vehicles.</text>
-<text x="106" y="1100"><tspan font-size="31" font-weight="700" fill="#7ea6ff">9</tspan><tspan font-size="19" font-weight="700" fill="#e4e9f0" dx="6">planners</tspan></text>
-<text x="106" y="1127" font-size="19" fill="#8c97a7">from heuristic</text>
-<text x="106" y="1151" font-size="19" fill="#8c97a7">to exact</text>
-<text x="332" y="1100"><tspan font-size="31" font-weight="700" fill="#7ea6ff">44 673</tspan><tspan font-size="19" font-weight="700" fill="#e4e9f0" dx="6">nodes</tspan></text>
-<text x="332" y="1127" font-size="19" fill="#8c97a7">Turkey’s real</text>
-<text x="332" y="1151" font-size="19" fill="#8c97a7">OSM road network</text>
-<text x="558" y="1100"><tspan font-size="31" font-weight="700" fill="#7ea6ff">711</tspan><tspan font-size="19" font-weight="700" fill="#e4e9f0" dx="6">stations</tspan></text>
-<text x="558" y="1127" font-size="19" fill="#8c97a7">real public</text>
-<text x="558" y="1151" font-size="19" fill="#8c97a7">chargers in OSM</text>
-<text x="125" y="1216" font-size="19.5" fill="#b6c0cc">Live demo that plans in your browser</text>
-<text x="125" y="1255" font-size="19.5" fill="#b6c0cc">Pure Python, zero dependencies</text>
-<text x="251.046" y="1358" font-size="20" font-weight="600" text-anchor="middle" fill="#e4e9f0">macik.com.tr</text>
-<text x="549.864" y="1358" font-size="20" font-weight="600" text-anchor="middle" fill="#e4e9f0">mustafaacik92@gmail.com</text>
+<text x="142" y="597" font-size="20.5" font-weight="700" fill="#e4e9f0">Artificial intelligence</text>
+<text x="492.23" y="597" font-size="19" fill="#8c97a7">projects and research</text>
+<text x="142" y="653" font-size="20.5" font-weight="700" fill="#e4e9f0">Embedded systems &amp; IoT</text>
+<text x="492.23" y="653" font-size="19" fill="#8c97a7">my own projects</text>
+<text x="142" y="709" font-size="20.5" font-weight="700" fill="#e4e9f0">Robotics</text>
+<text x="492.23" y="709" font-size="19" fill="#8c97a7">autonomous systems</text>
+<text x="142" y="765" font-size="20.5" font-weight="700" fill="#e4e9f0">Route &amp; charging optimisation</text>
+<text x="492.23" y="765" font-size="19" fill="#8c97a7">electric vehicles · EVRoute</text>
 </g>
 </svg>
